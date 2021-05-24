@@ -16,9 +16,9 @@ Hi, I'm Shubham Patel, a Competitive Programmer and Web Developer Enthusiast fro
 **Some highlights about me:**
 
 - 👨🏽‍💻 Currently I am in 2nd year of Computer Science and Engineering in Ahmedabad University.
-- 🌱 Learning Machine Learning; 
+<!--- 🌱 Learning Machine Learning; 
 - 💬 I'm open for Internship Opportunities;
-- 📝[Resume](https://drive.google.com/file/d/1D9Bx_C2X0CwYZflvxzHnAfYgDkCncp-A/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1D9Bx_C2X0CwYZflvxzHnAfYgDkCncp-A/view?usp=sharing)-->
 
 **Technologies**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
