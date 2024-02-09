@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm Shubham Patel, a Computer Science Enthusiast from India. I love experimenting with new Tech Stacks. I enjoy listening music and traveling.
+Hi, I'm Shubham Patel, a Computer Science Enthusiast. I love experimenting with new Tech Stacks. I enjoy listening music and traveling.
 
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
