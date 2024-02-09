@@ -1,10 +1,10 @@
 <h1 align="center">Hey there <img src="Hi.gif" width="40px" />, I'm Shubham</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/shubham-patel-3b87141a7)](https://linkedin.com/in/shubham-patel-3b87141a7)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-v-patel/)](https://www.linkedin.com/in/shubham-v-patel/)
 
 <!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADvMAAA7zARxTmToAAAMpSURBVFhH7ZdJL21BFIWPxAghIvq+74OI/icQv4IYiRiYEMw1E0STCGaagV+BmDHXRYyEAQmiSVbe+zZ1895177uEc03eSdY999TZtdc6u3bVrvJiYmLkeZ7i4+NVVlam5uZmtbW1qbW19duBbzjggvMNnjIyMsygrq5OlZWVKi8vV0VFxbcD3/X19WppaVFmZuargLi4OCOvqqoyA+5+wnHAaZEgJO7Lg439Alxwwu0xLtEkd4ATbo+EY3xCGfkJOOH2GItwAlCZnZ1tCROM0tJSVVdXh7TJysoKvA/lF8AJd1gBtNXU1GhgYEDDw8MaGxvT6OioxsfHNTQ0ZJlcUlJiNv39/RoZGQm8HxwcVFNTk3Jzc8OKiCiABGHKPD4+iov78/OzgWtra0tpaWlqaGjQ3d2dtWHj7K+urtTd3a28vLx3vsGHBJCpT09PWl5eVnFxsRobG63t/Pxc+/v7Fm5E3t/fa3t728LOc2dnp66vr3V0dGT9Qvn/sAC+eG5uTikpKeYsPz9fJycn2t3dDQh4eHjQxsaG2dAvMTFRMzMzFgmGCmHB/j8VgYWFBVstSTjG/fT0VDs7O39FgCHhmb7cJyYmTEBHR4f1Cfb/JQFnZ2cRBUxPT5uA9vb2/wK+JuDl5cWcxcbGKjU1VcnJyTo+Ptbe3l50BNzc3Ojw8FCLi4taWVmxKYkoZkF6err/AlhQbm9vLezM/4uLCx0cHKivr8+WXN8FsA7Mzs4qKSlJhYWFKioqUkFBgf1n4xKVJJyfn7dwk4QOziYqAtwsCGUTTsDk5GR0BWxubgaixEyZmpoyAfj3XQC1YH193YipfhQtCtHl5aXVgVD+PyQA51yrq6tWekPZUI5dCWZ9oFC5q7e31/YEwf1ARAG01dbWamlpST09PZb54WwI99ramkWBqsis6erqUk5Ozrs+DhEFAMaThGLK/Wt7xXrAEGHLHSD4S1syvxEQ8FPbcgTYttwlWzRFwMUMg9vjeEQo3Itg4++G44AzISHh9XBK8tCAKkLj5+EUDrhIXDucvv2YGogZF04sbCYd6AD+bPsMXH98w/H25b/h6ReAlPl47oOWIgAAAABJRU5ErkJggg==&logoColor=white&link=https://instagram.com/kanna6501/)](https://pratikdaigavane.me) -->
 
-[![Gmail Badge](https://img.shields.io/badge/-shubham.v.patel.7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubham.v.patel.7@gmail.com)](mailto:shubham.v.patel.7@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shubham.v.patel.7@gmail.com)](mailto:shubham.v.patel.7@gmail.com)
 ![](https://www.linkedin.com/in/shubham-v-patel/)
 
 <br />
